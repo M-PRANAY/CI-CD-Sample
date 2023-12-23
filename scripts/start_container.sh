@@ -2,7 +2,7 @@
 set -e
 
 # Pull the Docker image from Docker Hub
-docker pull pranayeeee/sample-python-app
+docker pull pranayeeee/python-sample
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 pranayeeee/sample-python-app
+docker run -d -p 5000:5000 pranayeeee/python-sample
