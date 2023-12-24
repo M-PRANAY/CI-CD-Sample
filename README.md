@@ -24,9 +24,9 @@ phases:
       - echo "Build Successful"  # Indicate successful completion
 
 
+```
 
-
-CODEDEPLOY
+## CODEDEPLOY
 
 
 Create EC2 instance with Commands : 
@@ -38,6 +38,8 @@ Create EC2 instance with Commands :
 - sudo ./install auto
 - sudo service codedeploy-agent status
 
+
+Create Application in CodeDeploy and then Deployements
 
 
 Role for EC2:
